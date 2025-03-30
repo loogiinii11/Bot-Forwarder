@@ -1,0 +1,22 @@
+{
+    "-1001434286763": {
+        "active": true,
+        "sources": {
+            "-1002361441989": {
+                "filters": {
+                    "type": null,
+                    "keywords": [],
+                    "extensions": []
+                }
+            }
+        },
+        "word_replace": {
+            "active": false,
+            "pairs": {}
+        },
+        "link_replace": {
+            "active": false,
+            "replacement": "[Link Removed]"
+        }
+    }
+}
